@@ -1,5 +1,3 @@
 ##F0002f: Rajzold ki egyetlen print() utasítással az alábbi ábrát! (Megoldás itt.)
-print(' \      /')
-print('  \    /')
-print('   \  /')
-print('    \/')
+
+print('\\      /\n \\    /\n  \\  /\n   \\/\n')
